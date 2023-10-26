@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' show Color;
 
 abstract class Palette {
   static const Color primary = Color(0xFF9b2743);
